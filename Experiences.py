@@ -4,7 +4,7 @@ import time
 
 
 
-
+#THIS WILL NEVER SAVE NOR UPLOAD YOUR INPUT BTW!!!
 print("Experience Equation Generator")
 birthday = input("enter the start of the 26th week of you being in the womb (example: 2006-05-19)")
 birthtime = "00:00:00"
