@@ -23,7 +23,7 @@ try:
 
          elapsed_seconds = now - birth_timestamp
 
-         final_answer = elapsed_seconds * 0.15
+         final_answer = elapsed_seconds / 0.15
 
          tick_counter += 1
          if tick_counter >= 7:
